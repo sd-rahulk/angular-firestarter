@@ -1,12 +1,12 @@
 export const environment = {
   production: true,
   firebase:  {
-    apiKey: 'AIzaSyAKlEX5a8PQaadYNSrohqfl33O37Kjkv1Y',
-    authDomain: 'angular-voxer.firebaseapp.com',
-    databaseURL: 'https://angular-voxer.firebaseio.com',
-    projectId: 'angular-voxer',
-    storageBucket: 'angular-voxer.appspot.com',
-    messagingSenderId: '122050526979',
-    appId: '1:122050526979:web:529304dce5ffca7a'
+    apiKey: "AIzaSyCEk0eZjU5uFdtiCIuW7XSmc0xWxP-i6AU",
+    authDomain: "gaming-panther.firebaseapp.com",
+    projectId: "gaming-panther",
+    storageBucket: "gaming-panther.appspot.com",
+    messagingSenderId: "1058325609234",
+    appId: "1:1058325609234:web:0b241342e8acc33aef51cb",
+    measurementId: "G-NBK083SLRN"
   }
 };
